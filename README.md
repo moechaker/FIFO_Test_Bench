@@ -10,14 +10,9 @@ The FIFO Design Verification Test Bench is a collection of SystemVerilog files t
 
 To run the FIFO design verification test bench, follow these steps:
 
-1. visit edaplayground.com
-2. create an account
-3. copy the contents of design.sv to design.sv on the website
-4. copy the contents of testbench.sv to testbench.sv on the website
-5. on the left, choose SystemVerilog/Verilog as the language under languages and libraries
-6. on the left, choose Aldec Riviera Pro 2022.04 under Tools & Simulators
-7. click on "Open EPWave after run" also under Tools & Simulators if you wish to analyze the waveforms
-8. hit Save then Run
+1. Visit this link: https://www.edaplayground.com/x/SvJN
+2. On the left, click on "Open EPWave after run" under Tools & Simulators if you wish to analyze the waveforms
+3. hit Save then Run
 
 During the simulation, the test bench will automatically generate random stimulus and monitor the behavior of the FIFO design under test. Any errors, mismatches, or violations will be reported and logged.
 
