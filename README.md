@@ -7,7 +7,7 @@ This repository contains a test bench implemented in [SystemVerilog](https://en.
 The FIFO Design Verification Test Bench is a collection of SystemVerilog files that aim to validate the correctness of a FIFO design implementation. By utilizing constrainted randomization, the test bench generates a wide range of random test scenarios to ensure comprehensive verification coverage. This methodology allows for the detection of potential design flaws, edge cases, and corner-case scenarios.
 
 ## Important Notes
-- PLEASE NOTE THAT I HAVE NOT WRITTEN THE DESIGN, I HAVE ONLY VERIFIED
+- PLEASE NOTE THAT I HAVE NOT WRITTEN THE DESIGN, I HAVE ONLY VERIFIED IT
 - design.sv IS NOT WRITTEN BY ME
 - EVERYTHING ELSE IS DONE BY ME
 - sorry for shouting that out lol, I just wanted it to be seen
