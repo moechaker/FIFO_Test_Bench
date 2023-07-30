@@ -20,7 +20,7 @@ To run the FIFO design verification test bench, follow these steps:
 2. Top right, hit login and create an account
 3. Eda Playground might open a new playground for you, so go ahead and click on my link again to open my playground
 4. On the left, click on "Open EPWave after run" under Tools & Simulators if you wish to analyze the waveforms
-5. hit Save then Run
+5. hit Run
 
 During the simulation, the test bench will automatically generate random stimulus and monitor the behavior of the FIFO design under test. Any errors, mismatches, or violations will be reported and logged.
 
